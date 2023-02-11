@@ -1,0 +1,16 @@
+{
+  "name": "demo-fetch-axios",
+  "version": "1.0.0",
+  "description": "Demo fetch axios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "demo",
+    "fetch",
+    "axios"
+  ],
+  "author": "Arif Setiawan",
+  "license": "MIT"
+}
